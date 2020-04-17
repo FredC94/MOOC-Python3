@@ -10,5 +10,6 @@
 - Le cours: https://www.fun-mooc.fr/dashboard
 
 
-Tuto Youtube Git intégré à Microsoft Visual Code (indispensable)
+Tuto Youtube Git intégré à Microsoft Visual Code
+
 [Visual Studio Code | How to use git and github](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
