@@ -3,6 +3,7 @@ Massive Open Online Course Python 3 de France Université Numérique
 
 Mars/Avril 2020 (Vive le confinement !)
 
-Références utiles
+**Références utiles**
 
-https://docs.python.org/3/
+- https://docs.python.org/3/
+- http://pythontutor.com/visualize.html#mode=edit
