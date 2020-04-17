@@ -10,6 +10,13 @@
 - Le cours: https://www.fun-mooc.fr/dashboard
 
 
-Tuto Youtube Git intégré à Microsoft Visual Code
+Tuto YouTube Git intégré à Microsoft Visual Code
 
 [Visual Studio Code | How to use git and github](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
+
+**Mémo:**
+https://github.com/FredC94/MOOC-Python3.git
+
+git config --global user.email "mail_address"
+
+git config --global user.name "username"
