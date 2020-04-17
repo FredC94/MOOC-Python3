@@ -5,10 +5,10 @@
 
 **Références utiles:**
 
-- La documentation Python 3 https://docs.python.org/3/
-- http://pythontutor.com/visualize.html#mode=edit
-- https://www.fun-mooc.fr/dashboard
+- La documentation Python 3: https://docs.python.org/3/
+- L'INDISPENSABLE Python Tutor: http://pythontutor.com/visualize.html#mode=edit
+- Le cours: https://www.fun-mooc.fr/dashboard
 
 
-Tuto Git avec Microsoft Visual Code (indispensable)
-Visual Studio Code | How to use git and github
+Tuto Youtube Git intégré à Microsoft Visual Code (indispensable)
+[Visual Studio Code | How to use git and github](https://www.youtube.com/watch?v=Fk12ELJ9Bww)
