@@ -1,4 +1,4 @@
-"""
+
 import random
 secret = random.randint(0, 5)
 if secret >= 0 and secret <= 5:
@@ -14,3 +14,4 @@ if secret == choix_utilisateur:
     print("Gagné !")
 else:
     print("Perdu !")
+    """
