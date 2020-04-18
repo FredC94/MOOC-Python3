@@ -2,5 +2,6 @@
     "editor.fontSize": 12,
     "cSpell.ignoreWords": [
         "hoarau"
-    ]
+    ],
+    "python.pythonPath": "C:\\Users\\Frederic\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
 }
