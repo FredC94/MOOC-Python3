@@ -12,4 +12,5 @@ Les fichiers utilisés par UpyLaB pour tester la fonction sont accessibles aux a
 
 """
 def acrostiche(fichier):
-    
+   with  open('mots.txt', encoding = "utf-8") as fichier:
+       
