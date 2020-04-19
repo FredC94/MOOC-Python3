@@ -11,6 +11,14 @@ Les fichiers utilisés par UpyLaB pour tester la fonction sont accessibles aux a
     https://upylab.ulb.ac.be/pub/data/acro3.txt
 
 """
-def acrostiche(fichier):
-   with  open('mots.txt', encoding = "utf-8") as fichier:
-       
+def acrostiche(file):
+    with open(file, encoding="utf-8") as mots:
+        res = ""
+        for m in mots:
+            res = res + m[0]
+        return res
+
+
+print(acrostiche('acro1.txt'))
+print(acrostiche('acro2.txt'))
+print(acrostiche('acro3.txt'))
