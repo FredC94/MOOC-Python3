@@ -1,3 +1,33 @@
+""" Date : Avril 2020
+    Projet : MOOC Python 3 - France Université Numérique
+
+Objectif:
+    Écrire un programme qui réalise 5 manches du jeu Pierre-feuille-ciseaux entre l’ordinateur et le joueur.
+    Chaque manche va consister en :
+
+        la génération (pseudo) aléatoire d’un nombre entre 0 et 2 compris, à l’aide de la fonction randint du module random, qui va représenter le coup de l’ordinateur (0 valant Pierre, 1, Feuille et 2, Ciseaux) ;
+        la lecture en entrée (input) d’une valeur entière entre 0 et 2 compris qui représente le coup du joueur ;
+        l’affichage du résultat sous une des formes :
+            coup_o bat coup_j : points
+            coup_o est battu par coup_j : points
+            coup_o annule coup_j : points
+        où
+            coup_o et coup_j sont respectivement le coup de l’ordinateur et du joueur : "Pierre" s’il a joué 0, "Feuille" s’il a joué 1 et "Ciseaux" s’il a joué 2.
+            points donne le résultat des manches jusqu’à présent sachant que le compteur points part de zéro, et est incrémenté de un
+            chaque fois que le joueur gagne une manche, et décrémenté de un chaque fois que l’ordinateur gagne une manche
+            (les match nuls ne modifiant pas le compteur points).
+
+À la fin des cinq manches, votre programme affichera : Perdu, Nul ou Gagné suivant que le compteur est négatif, nul ou strictement positif.
+
+Consignes:
+    Dans cet exercice, il vous est demandé d’écrire un programme contenant des fonctions.
+    
+    Attention, nous rappelons que votre code sera évalué en fonction de ce qu’il affiche, donc veillez à n’imprimer que le résultat attendu
+    en respectant majuscules et minuscules et en veillant à n’avoir qu’une espace entre les mots et signes et aucune espace supplémentaire
+    en fin de ligne. En particulier, il ne faut rien écrire à l’intérieur des appels à input (int(input()) et non int(input("Entrer un nombre : ")) par exemple),
+    ni ajouter du texte supplémentaire dans ce qui est imprimé (print(points) et non print("résultat :",points) par exemple).
+"""
+
 def pierre_feuille_ciseaux():
     import random
 

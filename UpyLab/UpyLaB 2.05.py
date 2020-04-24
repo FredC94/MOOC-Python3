@@ -1,4 +1,3 @@
-
 """ Auteur: Frédéric Castel
     Date : Mars 2020
     Projet : MOOC Python 3 - France Université Numérique

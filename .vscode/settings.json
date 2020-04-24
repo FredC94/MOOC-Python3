@@ -1,7 +1,19 @@
 {
     "editor.fontSize": 12,
     "cSpell.ignoreWords": [
-        "hoarau"
+        "alea",
+        "amis",
+        "dice",
+        "hoarau",
+        "identite",
+        "lorsqu’on",
+        "symetrise"
     ],
-    "python.pythonPath": "C:\\Users\\Frederic\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+    "python.pythonPath": "C:\\Users\\Frederic\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "cSpell.words": [
+        "abreviation",
+        "deux",
+        "egaux",
+        "fibo"
+    ]
 }
