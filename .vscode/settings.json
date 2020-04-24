@@ -1,6 +1,8 @@
 {
     "editor.fontSize": 12,
     "cSpell.ignoreWords": [
+        "agtcttaccgatccat",
+        "agucuuaccgauccau",
         "alea",
         "amis",
         "dice",
@@ -12,8 +14,10 @@
     "python.pythonPath": "C:\\Users\\Frederic\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
     "cSpell.words": [
         "abreviation",
+        "antisymetrique",
         "deux",
         "egaux",
-        "fibo"
+        "fibo",
+        "symetrie"
     ]
 }
