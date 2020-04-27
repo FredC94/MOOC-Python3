@@ -1,14 +1,22 @@
 {
     "editor.fontSize": 12,
     "cSpell.ignoreWords": [
+        "affichage",
         "agtcttaccgatccat",
         "agucuuaccgauccau",
         "alea",
         "amis",
+        "annee",
+        "bonne",
+        "categorie",
+        "decompresse",
+        "diametre",
         "dice",
         "hoarau",
         "identite",
         "lorsqu’on",
+        "planete",
+        "resultat",
         "symetrise"
     ],
     "python.pythonPath": "C:\\Users\\Frederic\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",

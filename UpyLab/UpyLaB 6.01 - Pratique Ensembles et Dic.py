@@ -2,9 +2,11 @@
     Date : Avril 2020
     Projet : MOOC Python 3 - France Université Numérique
 
-Enoncé:
-    Après avoir longuement réfléchi et un peu visité notre monde, le Petit Prince décide de ne pas rentrer sur sa planète mais de s’installer dans les Cévennes pour profiter de la belle nature qu’on y trouve.
-    Il y trouve une petite demeure pour y habiter, et plusieurs de ses amis veulent l’aider en lui proposant des meubles, des denrées, des livres ou d’autres choses qui pourraient l’intéresser pour aménager son nouveau domicile.
+Objectif:
+    Après avoir longuement réfléchi et un peu visité notre monde, le Petit Prince décide de ne pas rentrer sur sa planète
+    mais de s’installer dans les Cévennes pour profiter de la belle nature qu’on y trouve.
+    Il y trouve une petite demeure pour y habiter, et plusieurs de ses amis veulent l’aider en lui proposant des meubles,
+    des denrées, des livres ou d’autres choses qui pourraient l’intéresser pour aménager son nouveau domicile.
 
     Nous vous proposons de l'aider.
     Écrire une fonction inventaire(offres, objets) où :
@@ -39,6 +41,4 @@ print(inv)
 
 # doit retourner (à l'ordre près) :
 
-{'Thierry', 'Sophie', 'Isabelle', 'Antoine', 'Ernest'}
-
-# ... bizarrement ma fonction ne retourne pas dans le bon ordre, mais ça passe Upylab... 
+{'Thierry', 'Sophie', 'Isabelle', 'Antoine', 'Ernest'} 

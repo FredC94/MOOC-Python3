@@ -1,3 +1,4 @@
+"""
 with  open('mots.txt', encoding = "utf-8") as fichier:
     total = 0
     cnt = 0
@@ -8,3 +9,9 @@ with  open('mots.txt', encoding = "utf-8") as fichier:
             cnt = cnt + 1
 
 print('Pourcentage de mots sans e:', cnt / total * 100.0, "pourcents")
+"""
+
+with open('mots.txt', encoding="utf-8") as mots:
+    for m in mots:
+        if len(m) > 24:
+            print(m)

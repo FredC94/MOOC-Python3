@@ -30,7 +30,7 @@ def hexagone(point, longueur, col, centre, rayon):
             turtle.goto(p[0], p[1])
         turtle.goto(point2[0], point2[1])
         turtle.end_fill()
-    turtle.Screen().exitonclick()
+
     turtle.down()
 
 def pavage(inf_gauche, sup_droit, longueur, col, centre, rayon):

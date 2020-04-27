@@ -2,7 +2,7 @@
     Date : Avril 2020
     Projet : MOOC Python 3 - France Université Numérique
 
-Enoncé:
+Objectif:
     Écrire une fonction calcul_prix(produits, catalogue) où :
         produits est un dictionnaire contenant, comme clés, les produits souhaités par Monsieur Germain et comme valeurs associées, 
         la quantité désirée de chacun d’entre eux, catalogue est un dictionnaire contenant tous les produits du magasin avec leur prix associé.
@@ -16,6 +16,7 @@ Consignes:
     Vous pourrez supposer que les arguments passés à la fonction sont du bon type, et que les produits souhaités par Monsieur Germain 
     figurent bien dans le catalogue du magasin.
 """
+
 def top_3_candidats(moyennes):
     mon_tuple = tuple()
     for cle, valeur in sorted(moyennes.items(), reverse=True, key=lambda x: x[1]):

@@ -2,11 +2,9 @@
 Petit jeu de devinette (version 2)
 Auteur: Thierry Massart
 Date : 10 octobre 2018
-Petit jeu de devinette d'un nombre entier tiré aléatoirement
-par le programme dans un intervalle donné
+Petit jeu de devinette d'un nombre entier tiré aléatoirement par le programme dans un intervalle donné
 Entrée : le nombre proposé par l'utilisateur
-Résultat : affiche si le nombre proposé est celui tiré
-           aléatoirement
+Résultat : affiche si le nombre proposé est celui tiré aléatoirement
 """
 
 # importation des modules

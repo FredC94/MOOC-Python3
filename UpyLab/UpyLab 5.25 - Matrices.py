@@ -14,7 +14,7 @@ trace(M) = \sum_{i = 0}^{n - 1} m_{ii}
 
     Vous pourrez supposer que les matrices passées en argument seront bien carrées (même nombre de lignes et de colonnes).
 """
-# revenu en arrière et écrit en 40 secondes...
+
 def trace(M):
     res = 0
     for i in range(len(M)):

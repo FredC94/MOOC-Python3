@@ -1,17 +1,27 @@
-# Auteur: Frédéric CASTEL (Mars/Avril 2020)
-"""
-Exercices:
-Écrire une fonction decompresse qui reçoit une telle liste en paramètre et renvoie la séquence t sous forme d’une nouvelle liste.
-L’appel suivant de la fonction :
-decompresse([(4, 1), (0, 2), (2, 'test'), (3, 3), (1, 'bonjour')])
-doit retourner :
-[1, 1, 1, 1, 'test', 'test', 3, 3, 3, 'bonjour']
+""" Auteur = Frédéric Castel
+    Date : Avril 2020
+    Projet : MOOC Python 3 - France Université Numérique
+
+Objectif:
+    On considère une liste qui décrit une séquence t. Chaque élément de cette liste est un tuple de deux composantes :
+    le nombre de répétitions successives de l’élément x dans la séquence t, et l’élément x lui-même.
+
+    Par exemple, la liste [(1, 'He'), (2, 'l'), (1,'o')] décrit la séquence "Hello".
+
+    Écrire une fonction decompresse qui reçoit une telle liste en paramètre et renvoie la séquence t sous forme
+    d’une nouvelle liste.
+
+Exemples:
+    decompresse([(4, 1), (0, 2), (2, 'test'), (3, 3), (1, 'bonjour')])
+    doit retourner: [1, 1, 1, 1, 'test', 'test', 3, 3, 3, 'bonjour']
 
 Consignes:
-Il n’est demandé ici que de définir la fonction. Mais pour tester son fonctionnement dans PyCharm, pensez à ajouter du code
-qui l’appelle et teste son résultat, sur plusieurs valeurs, comme print(decompresse([(1,'He'), (2, 'l'), (1,'o')]) par exemple.
-"""
+    Dans cet exercice, il vous est demandé d’écrire seulement la fonction decompresse.
+    Le code que vous soumettez à UpyLaB doit donc comporter uniquement la définition de cette fonction,
+    et ne fait en particulier aucun appel à input ou à print.
 
+    Essayez d’utiliser une compréhension de liste pour cet exercice.
+"""
 
 def decompresse(t):
     liste = []
