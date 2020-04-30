@@ -31,5 +31,4 @@ def anagrammes(v, w):
     else:
         return False
 
-
 anagrammes('chien', 'niche')
