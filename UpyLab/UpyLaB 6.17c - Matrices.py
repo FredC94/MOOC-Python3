@@ -1,12 +1,27 @@
+""" Date : Avril 2020
+    Projet : MOOC Python 3 - France Université Numérique
+
+Objectif:
+    Écrire une fonction check_cols qui prend en paramètre une grille sous forme de matrice à deux dimensions et vérifie
+    si toutes les colonnes sont valides (c’est-à-dire que sur chaque colonne, chaque chiffre apparaît une et une seule fois).
+
+Consignes:
+    Dans cet exercice, le code que vous soumettez à UpyLaB doit comporter uniquement la définition de la fonction check_cols,
+    et ne fait en particulier aucun appel à input ou à print.
+
+    Vous pourrez supposer que la grille passée en paramètre est valide.
+
+    La fonction ne doit pas modifier la grille passée en paramètre.
+"""
 def check_regions(grid):
-  for row in range(0, 9, 3):
-      for col in range(0,9,3):
-         temp = []
-         for r in range(row,row+3):
-            for c in range(col, col+3):
+  for ligne in range(0, 9, 3):
+      for colonne in range(0, 9, 3):
+         liste = []
+         for r in range(ligne, ligne + 3):
+            for c in range(colonne, colonne + 3):
               if grid[r][c] != 0:
-                temp.append(grid[r][c])
-         if len(temp) != len(set(temp)): # On vérifie si une valeur se répète.
+                liste.append(grid[r][c])
+         if len(liste) != len(set(liste)): # On vérifie si une valeur se répète.
              return False
   return True
 

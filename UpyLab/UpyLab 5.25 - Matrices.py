@@ -21,9 +21,6 @@ def trace(M):
         res = res + M[i][i]
     return res    
 
-
-
-# L’appel suivant de la fonction :
 t = trace([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 print(t)
 
