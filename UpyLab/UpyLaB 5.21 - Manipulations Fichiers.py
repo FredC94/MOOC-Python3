@@ -36,7 +36,8 @@ def liste_des_mots(filename):
                 mots = mots.replace(mots[i], " ") # on remplace la lettre du mot par une chaîne vide (espace)
 
         # puis on split chaque mot que l'on additionne à la liste temporaire à chaque tour de boucle
-        liste_temp = liste_temp + mots.split() 
+        liste_temp = liste_temp + mots.split()
+        print(liste_temp) 
 
     for mots in liste_temp: # on boucle sur chaque mots de la liste temporaire
         mots = mots.lower() # on convertit le mot en minuscule
@@ -47,5 +48,5 @@ def liste_des_mots(filename):
     return liste # ... et on retourne la liste
         
 (liste_des_mots("Zola.txt")) 
-#print(liste_des_mots("Zola.txt"))
+# print(liste_des_mots("Zola.txt"))
 
