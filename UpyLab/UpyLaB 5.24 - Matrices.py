@@ -24,13 +24,8 @@ def print_mat(matrice):
             res = res + str(elem)
         print(res)
 
+
+
 ma_matrice = eval(input())  # input: [['H','E','L','L','O'],['W','O','R','L','D']]
 print_mat(ma_matrice)
 
-
-
-print_mat([[1, 2], [3, 4], [5, 6]]) # doit afficher
-""" 1 2
-    3 4
-    5 6  
-"""
