@@ -1,20 +1,14 @@
-def check_regions(matrice):
-    somme = 0
-    for line in range(3):
-        start = 0
-        for col in range(start, 9):
-            print(matrice[col][line])
-            
-            #somme += matrice[col][line]
-
-    if somme != 45:
-        return False
-    else:
-        return True
-
-
-# j = (i // 3) * 3
-# k = (i % 3) * 3
+def check_regions(grid):
+  for row in range(0, 9, 3):
+      for col in range(0,9,3):
+         temp = []
+         for r in range(row,row+3):
+            for c in range(col, col+3):
+              if grid[r][c] != 0:
+                temp.append(grid[r][c])
+         if len(temp) != len(set(temp)): # On vérifie si une valeur se répète.
+             return False
+  return True
 
 
 
