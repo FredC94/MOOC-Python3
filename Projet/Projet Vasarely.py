@@ -27,3 +27,26 @@ du centre avant déformation de l’hexagone à peindre,
 * le point centre sous forme de triple (c_x, c_y, c_z) qui donne le centre de la sphère de déformation,
 * le rayon de la sphère de déformation.
 """
+inf_gauche = int(input("Point en bas à gauche du cadre: "))
+sup_droit = int(input("Point en haut à droite du cadre:  "))
+longueur = int(input("Longueur coté de l'hexagone: "))
+
+col1 = str(input("Quelle couleur #1 ? "))
+col2 = str(input("Quelle couleur #2 ? "))
+col3 = str(input("Quelle couleur #3 ? "))
+col = (col1, col2, col3)
+
+c_x = int(input("Coordonnée X du centre du cercle: "))
+c_y = int(input("Coordonnée Y du centre du cercle: "))
+c_z = int(input("Coordonnée Z du centre du cercle: "))
+centre = (c_x, c_y, c_z)  # tuple des 3 coordonnées
+
+rayon = int(input("Rayon du cercle de déformation"))
+
+pavage(inf_gauche, sup_droit, longueur, col, centre, rayon)
+
+def deformation(point, centre, rayon):
+    """renvoie le point sans le modifier"""
+    return point
+
+def pavage(inf_gauche, sup_droit, longueur, col, centre, rayon):
