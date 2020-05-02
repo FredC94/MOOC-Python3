@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 12
+		"editor.fontSize": 12,
+		"python.pythonPath": "C:\\Python3\\python.exe"
 	}
 }
