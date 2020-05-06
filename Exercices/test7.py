@@ -1,5 +1,8 @@
-if (['a', 'b', 'c', 'a'].count('b')) == 2:
-    print("True")
-else:
-    print("False")
+i = 0
+chiffre = 2
+res = 1
+while i < 5:
+    res = chiffre * res
+    print(res)
+    i += 1
 
