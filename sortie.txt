@@ -1,0 +1,43 @@
+1:48:284:J'ai l'idée, me dit-il enfin, j'ai l'idée que ce n'est peut-être pas aussi loin que nous l'imaginions... Frantz a supprimé sur mon plan toute une portion de la route que j'avais indiquée. Cela veut dire, peut-être, que la jument a fait, pendant mon sommeil, un long détour inutile...
+2:0:1:
+3:23:136:J'étais à moitié assis sur le coin d'une grande table, un pied par terre, l'autre ballant, l'air découragé et désoeuvré, la tête basse.
+4:0:1:
+5:14:79:Pourtant, dis-je, au retour, dans la berline, ton voyage a duré toute la nuit.
+6:0:1:
+7:51:291:- Nous étions partis à minuit, répondit-il vivement. On m'a déposé à quatre heures du matin, à environ six kilomètres à l'ouest de Sainte-Agathe, tandis que j'étais parti par la route de La Gare à l'est. Il faut donc compter ces six kilomètres en moins entre Sainte-Agathe et le pays perdu.
+8:0:1:
+9:25:128:Vraiment, il me semble qu'en sortant du bois des Communaux, on ne doit pas être à plus de deux lieues de ce que nous cherchons.
+10:0:1:
+11:12:68:- Ce sont précisément ces deux lieues-là qui manquent sur ta carte.
+12:0:1:
+13:28:137:- C'est vrai. Et la sortie du bois est bien à une lieue et demie d'ici, mais pour un bon marcheur, cela peut se faire en une matinée..."
+14:0:1:
+15:34:200:A cet instant Pierre arriva. Il avait une tendance irritante à se faire passer pour bon élève, non pas en travaillant mieux que les autres, mais en se signalant dans des circonstances comme celle-ci.
+16:0:1:
+17:28:154:Je savais bien, dit-il triomphant, ne trouver que vous deux. Tous les autres sont partis pour le bois des Communaux. En tête : Paul qui connaît les nids.
+18:0:1:
+19:26:156:Et, voulant faire le bon apôtre, il commença à raconter tout ce qu'ils avaient dit pour narguer le Cours, Jacqueline et nous, en décidant cette expédition.
+20:0:1:
+21:26:133:S'ils sont au bois, je les verrai sans doute en passant, dit Meaulnes, car je m'en vais aussi. Je serai de retour vers midi et demi.
+22:0:1:
+23:3:20:Pierre resta ébahi.
+24:0:1:
+25:57:310:Ne viens-tu pas ? me demanda Augustin, s'arrêtant une seconde sur le seuil de la porte entr'ouverte ? ce qui fit entrer dans la pièce grise, en une bouffée d'air tiédi par le soleil, un fouillis de cris, d'appels, de pépiements, le bruit d'un seau sur la margelle du puits et le claquement d'un fouet au loin.
+26:0:1:
+27:22:132:Non, dis-je, bien que la tentation fût forte, je ne puis pas, à cause de Jacqueline. Mais hâte-toi. Je t'attendrai avec impatience.
+28:0:1:
+29:11:60:Il fit un geste vague et partit, très vite, plein d'espoir.
+30:0:1:
+31:67:383:Lorsque Jacqueline arriva, vers dix heures, il avait quitté sa veste d'alpaga noir, revêtu un paletot de pêcheur aux vastes poches boutonnées, un chapeau de paille et de courtes jambières vernies pour serrer le bas de son pantalon. Je crois bien qu'il ne fut guère surpris de ne trouver personne. Il ne voulut pas entendre Pierre qui lui répéta trois fois que les gars avaient dit :
+32:0:1:
+33:11:57:S'il a besoin de nous, qu'il vienne donc nous chercher !
+34:0:1:
+35:4:17:Et il commanda :
+36:0:1:
+37:19:129:Serrez vos affaires, prenez vos casquettes, et nous allons les dénicher à notre tour... Pourras-tu marcher jusque-là, François ?
+38:0:1:
+39:6:37:J'affirmai que oui et nous partîmes.
+40:0:1:
+41:32:200:Il fut entendu que Pierre conduirait Jacqueline et lui servirait d'appeau... C'est-à-dire que, connaissant les futaies où se trouvaient les dénicheurs, il devait de temps à autre crier à toute voix :
+42:0:1:
+43:19:95:Hop ! Hola ! Giraudat ! Delouche ! Où êtes-vous ?... Y en a-t-il ?... En avez-vous trouvé ?...

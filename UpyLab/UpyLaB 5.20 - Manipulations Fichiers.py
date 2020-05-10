@@ -28,12 +28,12 @@ Consignes
 
 def nouveaux_heros(story, new_story):
     with open(story, 'r', encoding='utf-8') as entree:
-        filedata = entree.read()
+        print(len(entree.read().split()))
         filedata = filedata.replace('Jacqueline', 'Mathilde').replace('Paul', 'Tom').replace('Pierre', 'Paul')
         with open(new_story, 'w', encoding='utf-8') as sortie:
             sortie.write(filedata)
 
 nouveaux_heros("histoire_1.txt", "nouvelle_histoire_1.txt")
-nouveaux_heros("histoire_2.txt", "nouvelle_histoire_2.txt")
+#nouveaux_heros("histoire_2.txt", "nouvelle_histoire_2.txt")
 
 

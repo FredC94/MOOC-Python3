@@ -1,3 +1,4 @@
+# comment1 # comment2
 def ma_fonction(*valeurs):
     print("Le paramètre est un tuple valant :", valeurs)
 
